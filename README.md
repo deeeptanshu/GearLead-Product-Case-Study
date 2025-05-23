@@ -28,23 +28,23 @@ GearLead is a simple yet powerful internal web application that helps sales reps
 ## 📸 Screenshots
 
 ### 📋 Lead Listing
-![Lead Listing](screenshots/screen1-lead-listing.png)
+![Lead Listing](Screenshots/Screenshot%202025-05-22%20031407.png)
 
 ### 👤 Lead Details
-![Lead Details](screenshots/screen2-lead-details.png)
+![Lead Details](Screenshots/Screenshot%202025-05-22%20031421.png)
 
 ### 🛠️ Lead Management
-![Lead Management](screenshots/screen3-lead-management.png)
+![Lead Management](Screenshots/Screenshot%202025-05-22%20034826.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/screen4-dashboard.png)
+![Dashboard](Screenshots/Screenshot%202025-05-22%20031452.png)
 
 ---
 
 ## 🔗 Figma Prototype
 
-[🔗 View Figma File](https://www.figma.com/design/NlwaJnR3Q5HJXuWXQTz2Qu/HSR-Motors---Lead-Management-App?node-id=
- 0-1&t=qiewZhSA8GMUvBx1-1)
+[🔗 View Figma File](https://www.figma.com/design/NlwaJnR3Q5HJXuWXQTz2Qu/HSR-Motors---Lead-Management-App?node-id=0-1&t=qiewZhSA8GMUvBx1-1)
+
 
 ---
 
