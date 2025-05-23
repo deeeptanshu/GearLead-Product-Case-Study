@@ -50,7 +50,7 @@ GearLead is a simple yet powerful internal web application that helps sales reps
 
 ## 🔍 Product Case Study (PDF)
 
-[📄 GearLead Case Study PDF](GearLead_Case_Study.pdf) _(optional)_
+[📄 GearLead Case Study PDF](Case_study)
 
 ---
 
